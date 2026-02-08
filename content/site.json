@@ -1,0 +1,117 @@
+{
+  "brand": {
+    "name": "Flame",
+    "tagline": "The power you always had, but never knew."
+  },
+  "social": {
+    "youtube": "https://www.youtube.com/@YOUR_CHANNEL",
+    "email": "hello@yourdomain.com"
+  },
+  "cta": {
+    "primary": {
+      "label": "Enter Flame",
+      "href": "/mission"
+    },
+    "secondary": {
+      "label": "Watch",
+      "href": "/watch"
+    }
+  },
+  "mission": {
+    "headline": "A threshold. Not a brochure.",
+    "body": [
+      "Flame exists to reveal the authority already living inside you\u2014and train it into action.",
+      "Not noise. Not motivation. Not performance.",
+      "Clarity. Courage. Consequence."
+    ],
+    "pillars": [
+      {
+        "title": "Quiet Power",
+        "text": "No begging for attention. Presence speaks first."
+      },
+      {
+        "title": "Precision",
+        "text": "Every word earns its place. Every step has intent."
+      },
+      {
+        "title": "Protector + Builder",
+        "text": "Guard what matters. Build what\u2019s missing."
+      },
+      {
+        "title": "Depth",
+        "text": "Timeless culture over trend-chasing."
+      }
+    ]
+  },
+  "impact": {
+    "headline": "Measured in ripples, not applause.",
+    "body": [
+      "Flame\u2019s impact shows up as people who stop fragmenting themselves.",
+      "Creators who trade confusion for conviction.",
+      "Leaders who choose integrity over approval\u2014then move."
+    ],
+    "signals": [
+      {
+        "kicker": "Individuals",
+        "title": "Alignment becomes the default",
+        "text": "Less drifting. More direction."
+      },
+      {
+        "kicker": "Creators",
+        "title": "Work gains gravity",
+        "text": "Not more content. More consequence."
+      },
+      {
+        "kicker": "Communities",
+        "title": "Culture gets protected",
+        "text": "What\u2019s sacred is not up for sale."
+      }
+    ]
+  },
+  "books": [
+    {
+      "title": "Flame: The Threshold",
+      "status": "Coming Soon",
+      "description": "A short book on reclaiming internal authority and moving with consequence.",
+      "link": "#"
+    },
+    {
+      "title": "Quiet Power Playbook",
+      "status": "Drafting",
+      "description": "Practical frameworks for clarity, discipline, and creative execution.",
+      "link": "#"
+    }
+  ],
+  "workshops": [
+    {
+      "title": "Enter Flame (90 minutes)",
+      "when": "Monthly",
+      "description": "A live session to cut through fog, name what matters, and choose your next move.",
+      "cta": {
+        "label": "Request an invite",
+        "href": "/contact"
+      }
+    },
+    {
+      "title": "Precision Week",
+      "when": "Quarterly",
+      "description": "A focused sprint to align your work, your schedule, and your standards.",
+      "cta": {
+        "label": "Get on the list",
+        "href": "/contact"
+      }
+    }
+  ],
+  "videos": [
+    {
+      "title": "The Power You Always Had",
+      "youtubeId": "dQw4w9WgXcQ",
+      "description": "A short transmission to set the tone."
+    },
+    {
+      "title": "Quiet Power: What It Actually Means",
+      "youtubeId": "M7lc1UVf-VE",
+      "description": "Presence, restraint, and momentum."
+    }
+  ]
+}
