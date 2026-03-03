@@ -39,6 +39,7 @@ export default function LibraryPage() {
           <div className="mt-12 rounded-3xl bg-ink-900/40 shadow-edge p-7">
             <p className="text-xs uppercase tracking-[0.22em] text-bone-100/45">Note</p>
             <p className="mt-3 text-bone-100/80 leading-relaxed max-w-3xl">
+              These books are maps to find your way.
             </p>
           </div>
         </div>
