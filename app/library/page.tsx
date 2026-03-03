@@ -29,7 +29,7 @@ export default function LibraryPage() {
                   </div>
                   <p className="mt-3 text-bone-100/80 leading-relaxed">{b.description}</p>
                   <div className="mt-6">
-                    <Button href={b.link} variant="ghost">Link</Button>
+                    <Button href={b.link} variant="ghost">Details</Button>
                   </div>
                 </CardBody>
               </Card>
