@@ -39,8 +39,6 @@ export default function LibraryPage() {
           <div className="mt-12 rounded-3xl bg-ink-900/40 shadow-edge p-7">
             <p className="text-xs uppercase tracking-[0.22em] text-bone-100/45">Note</p>
             <p className="mt-3 text-bone-100/80 leading-relaxed max-w-3xl">
-              This page is powered by <code className="text-bone-100/90">content/site.json</code>.
-              Update your books once, and the site updates everywhere.
             </p>
           </div>
         </div>
