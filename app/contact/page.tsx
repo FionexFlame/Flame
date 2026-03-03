@@ -41,7 +41,7 @@ export default function ContactPage() {
                 <ul className="mt-3 space-y-2 text-bone-100/80 leading-relaxed list-disc pl-5">
                   <li>Where you are right now</li>
                   <li>What you’re building</li>
-                  <li>What you refuse to compromise</li>
+                  <li>What you need clarity or ease on.</li>
                 </ul>
               </CardBody>
             </Card>
@@ -50,7 +50,8 @@ export default function ContactPage() {
           <div className="mt-12 rounded-3xl bg-ink-900/40 shadow-edge p-7">
             <p className="text-xs uppercase tracking-[0.22em] text-bone-100/45">Optional</p>
             <p className="mt-3 text-bone-100/80 leading-relaxed max-w-3xl">
-              Want a real contact form? Add Formspree or a Next.js API route later—no redesign required.
+              If you feel confused, lost, alone, it is not that something is wrong with you. 
+              It is that where you are, is not for you.
             </p>
           </div>
         </div>
