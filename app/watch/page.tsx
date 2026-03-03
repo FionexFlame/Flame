@@ -32,10 +32,9 @@ export default function WatchPage() {
           </div>
 
           <div className="mt-12 rounded-3xl bg-ink-900/40 shadow-edge p-7">
-            <p className="text-xs uppercase tracking-[0.22em] text-bone-100/45">Tip</p>
+            <p className="text-xs uppercase tracking-[0.22em] text-bone-100/45">Description</p>
             <p className="mt-3 text-bone-100/80 leading-relaxed max-w-3xl">
-              Replace the sample YouTube IDs inside <code className="text-bone-100/90">content/site.json</code>.
-              You can also point your YouTube link in the footer to your real channel.
+              Small conversations to listen and reflect on.
             </p>
           </div>
         </div>
