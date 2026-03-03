@@ -1,4 +1,4 @@
-import { Container } from "@/components/Container";
+geimport { Container } from "@/components/Container";
 import { SectionHeader } from "@/components/SectionHeader";
 import { Card, CardBody } from "@/components/Card";
 import site from "@/content/site.json";
@@ -48,7 +48,7 @@ export default function ContactPage() {
           </div>
 
           <div className="mt-12 rounded-3xl bg-ink-900/40 shadow-edge p-7">
-            <p className="text-xs uppercase tracking-[0.22em] text-bone-100/45">Optional</p>
+            <p className="text-xs uppercase tracking-[0.22em] text-bone-100/45">Message</p>
             <p className="mt-3 text-bone-100/80 leading-relaxed max-w-3xl">
               If you feel confused, lost, alone, it is not that something is wrong with you. 
               It is that where you are, is not for you.
