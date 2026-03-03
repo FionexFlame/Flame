@@ -4,8 +4,8 @@
     "tagline": "The power you always had, but never knew."
   },
   "social": {
-    "youtube": "https://www.youtube.com/@YOUR_CHANNEL",
-    "email": "hello@yourdomain.com"
+    "Instagram": "https://www.instagram.com/javier_caves?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
+    "TikTok": "https://www.tiktok.com/@javier_caves?is_from_webapp=1&sender_device=pc"
   },
   "cta": {
     "primary": {
@@ -27,15 +27,15 @@
     "pillars": [
       {
         "title": "Quiet Power",
-        "text": "No begging for attention. Presence speaks first."
+        "text": "No asking for attention. Presence is enough."
       },
       {
         "title": "Precision",
-        "text": "Every word earns its place. Every step has intent."
+        "text": "Every step has intent."
       },
       {
         "title": "Protector + Builder",
-        "text": "Guard what matters. Build what\u2019s missing."
+        "text": "Protect alignment through structure."
       },
       {
         "title": "Depth",
@@ -59,7 +59,7 @@
       {
         "kicker": "Creators",
         "title": "Work gains gravity",
-        "text": "Not more content. More consequence."
+        "text": "Not more content. More resonance."
       },
       {
         "kicker": "Communities",
@@ -70,15 +70,21 @@
   },
   "books": [
     {
-      "title": "Flame: The Threshold",
-      "status": "Coming Soon",
-      "description": "A short book on reclaiming internal authority and moving with consequence.",
-      "link": "#"
+      "title": "Home Psychology | The Body: Rebuilding Internal Structure",
+      "status": "Available",
+      "description": "A book on remembering where you feel at home, so that health can naturally follow.",
+      "link": "https://a.co/d/01nCl9dC"
     },
     {
-      "title": "Quiet Power Playbook",
+      "title": "Home Psychology | Relationships",
       "status": "Drafting",
-      "description": "Practical frameworks for clarity, discipline, and creative execution.",
+      "description": "A book on remembering where you feel at home, with others.",
+      "link": "#"
+    },
+    {  
+      "title": "Home Psychology | Mission",
+      "status": "Drafting",
+      "description": "A book on remembering where you thrive, so that success can naturally follow.",
       "link": "#"
     }
   ],
@@ -104,14 +110,10 @@
   ],
   "videos": [
     {
-      "title": "The Power You Always Had",
-      "youtubeId": "dQw4w9WgXcQ",
-      "description": "A short transmission to set the tone."
-    },
-    {
-      "title": "Quiet Power: What It Actually Means",
-      "youtubeId": "M7lc1UVf-VE",
-      "description": "Presence, restraint, and momentum."
+      "title": "Coming Soon",
+      "youtubeId": "https://www.youtube.com/@Fionex-Flame",
+      "description": "A calling point."
+    
     }
   ]
 }
