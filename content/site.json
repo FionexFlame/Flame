@@ -4,8 +4,8 @@
     "tagline": "The power you always had, but never knew."
   },
   "social": {
-    "Instagram": "https://www.instagram.com/javier_caves?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-    "TikTok": "https://www.tiktok.com/@javier_caves?is_from_webapp=1&sender_device=pc"
+    "youtube": "https://www.youtube.com/@Fionex-Flame",
+    "email": "hello@yourdomain.com"
   },
   "cta": {
     "primary": {
@@ -31,11 +31,11 @@
       },
       {
         "title": "Precision",
-        "text": "Every step has intent."
+        "text": "Every word earns its place. Every step has intent."
       },
       {
         "title": "Protector + Builder",
-        "text": "Protect alignment through structure."
+        "text": "Guard what matters. Build what\u2019s missing."
       },
       {
         "title": "Depth",
@@ -58,8 +58,8 @@
       },
       {
         "kicker": "Creators",
-        "title": "Work gains gravity",
-        "text": "Not more content. More resonance."
+        "title": "Work gains resonance.",
+        "text": "Not more content. More consequence."
       },
       {
         "kicker": "Communities",
@@ -71,20 +71,14 @@
   "books": [
     {
       "title": "Home Psychology | The Body: Rebuilding Internal Structure",
-      "status": "Available",
-      "description": "A book on remembering where you feel at home, so that health can naturally follow.",
-      "link": "https://a.co/d/01nCl9dC"
+      "status": "Coming Soon",
+      "description": "A book on remembering where your body feels at home, so health can naturally follow.",
+      "link": "#"
     },
     {
       "title": "Home Psychology | Relationships",
       "status": "Drafting",
-      "description": "A book on remembering where you feel at home, with others.",
-      "link": "#"
-    },
-    {  
-      "title": "Home Psychology | Mission",
-      "status": "Drafting",
-      "description": "A book on remembering where you thrive, so that success can naturally follow.",
+      "description": "A book on recognizing where your home is, so that aligned people can find their way to you.",
       "link": "#"
     }
   ],
@@ -110,9 +104,14 @@
   ],
   "videos": [
     {
-      "title": "Coming Soon",
+      "title": "Time to Let Go",
       "youtubeId": "IQTwkV3YSXQ",
-      "description": "A calling point."
+      "description": "What will you let go of?"
+    },
+    {
+      "title": "It isn't about success or healing",
+      "youtubeId": "YTLjesgxE0Q",
+      "description": "No need for success."
     }
   ]
 }
