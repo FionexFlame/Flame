@@ -1,22 +1,12 @@
-import type { Metadata } from "next";
 import "./globals.css";
-import { Shell } from "@/components/Shell";
-import { Footer } from "@/components/Footer";
-import site from "@/content/site.json";
+import Link from "next/link";
+import type { Metadata } from "next";
+import { Analytics } from "@vercel/analytics/next";
 
 export const metadata: Metadata = {
-  title: {
-    default: `${site.brand.name} — ${site.brand.tagline}`,
-    template: `%s — ${site.brand.name}`,
-  },
-  description: site.brand.tagline,
-  metadataBase: new URL("https://example.com"),
-  openGraph: {
-    title: site.brand.name,
-    description: site.brand.tagline,
-    type: "website",
-  },
-  robots: { index: true, follow: true },
+  title: "Human Development Assessment",
+  description:
+    "A deployable self-assessment website with auto-scoring, AI reflection scoring, human review, and compliance-oriented email preferences.",
 };
 
 export default function RootLayout({
@@ -27,9 +17,24 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        <Shell />
+        <div className="container" style={{ paddingBottom: 0 }}>
+          <div className="nav" style={{ marginBottom: 20 }}>
+            <Link className="tablink" href="/">
+              Home
+            </Link>
+            <Link className="tablink" href="/assessment">
+              Assessment
+            </Link>
+            <Link className="tablink" href="/privacy">
+              Privacy
+            </Link>
+            <Link className="tablink" href="/terms">
+              Terms
+            </Link>
+          </div>
+        </div>
         {children}
-        <Footer />
+        <Analytics />
       </body>
     </html>
   );
